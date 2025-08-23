@@ -1,0 +1,21 @@
+body{
+    background-color: #F4B63C;
+}
+
+h1{
+    color: black;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+nav{
+    font-family: sans-serif;
+}
+
+input{
+    font-weight: 400;
+    font-family: sans-serif;
+    background-color: #da5447;
+    font-weight: 300;
+}
+
